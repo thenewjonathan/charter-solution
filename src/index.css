@@ -1,0 +1,31 @@
+body {}
+#output_div{
+    position:absolute;
+    left:2%;
+    top: 2%;
+    height: 96%;
+    width: 96%;
+    text-align:left;
+    vertical-align:top;
+}
+
+#execute{
+    cursor:pointer;
+    position:absolute;
+    left:0;
+    top:35px;
+}
+
+#output_field{
+    position:absolute;
+    left: 0;
+    top: 70px;
+    border: 1px solid black;
+}
+
+#input_field{
+    position:absolute;
+    left: 0;
+    top: 0;
+    border: 1px solid black;
+}
