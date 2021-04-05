@@ -7,7 +7,7 @@ So I'm assuming a few things:
 
 If those assumptions are correct, please find the solution to the problem you proposed in this repo. If any of them are incorrect, please feel free to reach out and ask for changes and I would be happy to demonstrate my ability to adapt code to modified requirements. Normally on a project, I would go back to the user for clarification before coding, but seeing as this is an initial code check, I feel confident this will suffice for proof of competency.
 <br /><br />
-To check my work, simply clone the project into a folder, open a command prompt in that folder and type "npm start". This should pop open a window for you to play with my interface. I also alert several values in an alert on load when the page opens. 
+To check my work, simply clone the project into a folder, open a command prompt in that folder and type "npm start". This should pop open a window for you to play with my interface. I also alert several values in an popup box on page load when the page opens to demonstrate and satisfy the requirement of "Make up a data set to best demonstrate your solution" in the task. 
 
 # Getting Started with Create React App
 
